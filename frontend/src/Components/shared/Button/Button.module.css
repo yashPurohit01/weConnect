@@ -1,0 +1,25 @@
+.button{
+    background-color: #8D7DEB;
+    width: max-content;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: large;
+    color:#E4E3F0; 
+    border-radius: 10px;
+    border: 1px solid rgb(94, 10, 230);
+    padding: 10px 20px;
+    outline: none;
+    transition: all cubic-bezier(0.39, 0.575, 0.565, 1) ease-in-out;
+    
+}
+.button:hover{
+    background-color:#6f61bf ;
+    cursor:pointer;
+    
+}
+.img{
+    margin-left: 5px;
+}

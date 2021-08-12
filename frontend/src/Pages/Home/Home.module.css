@@ -1,0 +1,23 @@
+.cardWrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.para{
+    width: 300px;
+    color: rgba(216, 213, 213, 0.522);
+    font-size: 14px;
+    cursor:default;
+}
+.span{
+    margin-right: 8px;
+    font-size: 12px;
+    font-weight: 300;
+    color: rgba(54, 54, 255, 0.864);
+}
+.signinWrapper{
+    list-style: none;
+    text-decoration: none;
+
+}

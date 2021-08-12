@@ -1,0 +1,52 @@
+.phonenumberCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    border-bottom: 20px;
+}
+.inputBox{
+    width:250px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #2C3254;
+    border: #2C3254;
+    margin:  25px 0 ;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color:whitesmoke;
+}
+.inputBox:focus{
+    outline: none;
+}
+.img{
+    margin-right:10px ;
+}
+
+.toogler{
+    display: flex;
+   justify-content: flex-start;
+    
+}
+.button{
+    background-color:  #D2DCFF;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin: 10px 5px; 
+}
+.button:hover{
+    background-color: #b8c0dc;
+}
+.activate{
+    background-color:   #8D7DEB; 
+}

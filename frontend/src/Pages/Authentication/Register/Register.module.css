@@ -1,0 +1,18 @@
+
+.registerButton{
+    margin-bottom: 20px;
+   
+}
+.join{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.span{
+    margin-right:10px;
+    font-size: 20px;
+}
+.signinLink{
+    font-size: 12px;
+    font-weight: 300;
+}

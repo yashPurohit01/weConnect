@@ -1,0 +1,73 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+ 
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #1C3056;
+  /* background: url(/images/pngegg.png); */
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+body{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  color: #E4E3F0;
+}
+/* 
+nav {
+  background-image: url(images/pngegg.png) ; 
+    background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   
+
+}
+
+nav .logo p:first-child{
+  font-family: 'Snippet', sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+
+ 
+  
+}
+nav .logo {
+  line-height: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  letter-spacing: -0.02em;
+  position: absolute;
+  width: 326px;
+  height: 67.52px;
+  left: calc(50% - 326px/2 - 502px);
+  top: 20px;
+}
+
+nav .logo p:last-child{
+font-size: small;
+ width: 217.17px;
+ 
+}
+ */
+ .container{
+   width: 1200px;
+   max-width: 90%;
+   margin: 0 auto;
+ }
